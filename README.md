@@ -40,7 +40,7 @@ Here are some suggested next steps to get the most out of this repository:
 ## 📚 Resources
 
 - [GitHub Copilot Documentation](https://docs.github.com/en/copilot)
-- [Best practices for Copilot coding agent](https://gh.io/copilot-coding-agent-tips)
+- [GitHub Copilot Best Practices](https://docs.github.com/en/copilot/using-github-copilot/getting-started-with-github-copilot)
 - [GitHub Actions Documentation](https://docs.github.com/en/actions)
 
 ## 🤝 Contributing
