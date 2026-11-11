@@ -41,7 +41,7 @@ Started: 2026-11-11. Branch: `claude/venture-discovery-30day-revenue-2igoem`.
 | 21 | findings/21-redteam-a.md | Red team: demand, sales cycle, payment risk | done |
 | 22 | findings/22-redteam-b.md | Red team: AI commoditization, regulation, exit | launched |
 | 23 | findings/23-exit-model-inputs.md | Comps and benchmarks for finalists | launched |
-| 24 | findings/24-sales-evidence.md | Channel/conversion evidence for 30-day plans | launched |
+| 24 | findings/24-sales-evidence.md | Channel/conversion evidence for 30-day plans | done |
 
 ## Log
 
