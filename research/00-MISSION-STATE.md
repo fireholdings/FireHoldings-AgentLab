@@ -23,14 +23,14 @@ Started: 2026-11-11. Branch: `claude/venture-discovery-30day-revenue-2igoem`.
 | # | File | Scope | Status |
 |---|------|-------|--------|
 | 01 | findings/01-fast-cash-services.md | Broad discovery: fastest-to-revenue solo businesses | launched |
-| 02 | findings/02-ai-services.md | AI-enabled business services, commoditization risk | launched |
+| 02 | findings/02-ai-services.md | AI-enabled business services, commoditization risk | done |
 | 03 | findings/03-ai-capabilities.md | Anthropic + competing AI tools: availability, pricing, limits | done |
 | 04 | findings/04-industrial-field.md | Industrial, construction admin, restoration, field services | done |
 | 05 | findings/05-regulatory-compliance.md | SMB regulatory compliance (OSHA, DOT, EPA, etc.) | launched |
 | 06 | findings/06-defense-security.md | Defense contractor support, CMMC, security compliance | launched |
-| 07 | findings/07-gov-contracting.md | Government-adjacent: SAM, proposals, state/local bids, grants | launched |
+| 07 | findings/07-gov-contracting.md | Government-adjacent: SAM, proposals, state/local bids, grants | done |
 | 08 | findings/08-healthcare-insurance-ar.md | Healthcare/insurance admin, revenue recovery, AR | done |
-| 09 | findings/09-prof-services-logistics-cre.md | Professional services, logistics, procurement, CRE ops | launched |
+| 09 | findings/09-prof-services-logistics-cre.md | Professional services, logistics, procurement, CRE ops | done |
 | 10 | findings/10-training-data-acq.md | Training/credential mgmt, data products, acquisition support | done |
 | 11 | findings/11-exit-intelligence.md | Valuation multiples, PE interest, what reaches $5M EV | launched |
 
