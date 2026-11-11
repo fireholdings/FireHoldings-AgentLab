@@ -25,7 +25,7 @@ Started: 2026-11-11. Branch: `claude/venture-discovery-30day-revenue-2igoem`.
 | 01 | findings/01-fast-cash-services.md | Broad discovery: fastest-to-revenue solo businesses | launched |
 | 02 | findings/02-ai-services.md | AI-enabled business services, commoditization risk | launched |
 | 03 | findings/03-ai-capabilities.md | Anthropic + competing AI tools: availability, pricing, limits | launched |
-| 04 | findings/04-industrial-field.md | Industrial, construction admin, restoration, field services | launched |
+| 04 | findings/04-industrial-field.md | Industrial, construction admin, restoration, field services | done |
 | 05 | findings/05-regulatory-compliance.md | SMB regulatory compliance (OSHA, DOT, EPA, etc.) | launched |
 | 06 | findings/06-defense-security.md | Defense contractor support, CMMC, security compliance | launched |
 | 07 | findings/07-gov-contracting.md | Government-adjacent: SAM, proposals, state/local bids, grants | launched |
