@@ -39,11 +39,12 @@ Started: 2026-11-11. Branch: `claude/venture-discovery-30day-revenue-2igoem`.
 | # | File | Scope | Status |
 |---|------|-------|--------|
 | 21 | findings/21-redteam-a.md | Red team: demand, sales cycle, payment risk | done |
-| 22 | findings/22-redteam-b.md | Red team: AI commoditization, regulation, exit | launched |
-| 23 | findings/23-exit-model-inputs.md | Comps and benchmarks for finalists | launched |
+| 22 | findings/22-redteam-b.md | Red team: AI commoditization, regulation, exit | done |
+| 23 | findings/23-exit-model-inputs.md | Comps and benchmarks for finalists | done |
 | 24 | findings/24-sales-evidence.md | Channel/conversion evidence for 30-day plans | done |
 
 ## Log
 
 - 2026-11-11: repo was empty (README only). State file created. Wave 1 launched.
 - 2026-11-11: wave 1 complete (11/11 files). Shortlist written to 01-shortlist.md. Wave 2 (4 agents) launched.
+- 2026-11-11: wave 2 complete (4/4). REPORT.md written (deliverables A-K). Mission complete; 15 agents total.
