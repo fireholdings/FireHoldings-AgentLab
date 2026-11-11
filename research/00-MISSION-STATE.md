@@ -26,7 +26,7 @@ Started: 2026-11-11. Branch: `claude/venture-discovery-30day-revenue-2igoem`.
 | 02 | findings/02-ai-services.md | AI-enabled business services, commoditization risk | done |
 | 03 | findings/03-ai-capabilities.md | Anthropic + competing AI tools: availability, pricing, limits | done |
 | 04 | findings/04-industrial-field.md | Industrial, construction admin, restoration, field services | done |
-| 05 | findings/05-regulatory-compliance.md | SMB regulatory compliance (OSHA, DOT, EPA, etc.) | launched |
+| 05 | findings/05-regulatory-compliance.md | SMB regulatory compliance (OSHA, DOT, EPA, etc.) | done |
 | 06 | findings/06-defense-security.md | Defense contractor support, CMMC, security compliance | launched |
 | 07 | findings/07-gov-contracting.md | Government-adjacent: SAM, proposals, state/local bids, grants | done |
 | 08 | findings/08-healthcare-insurance-ar.md | Healthcare/insurance admin, revenue recovery, AR | done |
